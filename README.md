@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nurya
+# Hi 👋, I'm Nury
 
 ## An enthusiast exploring Data Science, hailing from Indonesia
 
