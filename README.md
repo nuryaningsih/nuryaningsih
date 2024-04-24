@@ -2,9 +2,13 @@
 
 ## A passionate frontend developer from Indonesia, currently exploring Data Science
 
-**Work**
-- 🔭 **I’m currently working on**
-  - Project Name: [Project Name](project link)
+🔭 **I’m currently working on**
+  - ⚔️ Projects Done
+    - Identifying Success Patterns in Video Games for Strategic Advertising Campaign Planning
+    - Predicting Gold Extraction Efficiency Enhancing Production Processes with Zyfra Solutions
+    - Predicting and Mitigating Customer Churn at Interconnect Data Driven Strategies for Enhanced Client Retention
+  - 🚧 On-Going Projects
+    - Optimizing Steel Processing: Data Analysis and Temperature Prediction Model
 
 - 🌱 **I’m currently learning**
   - Data Science concepts, tools, and techniques
