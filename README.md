@@ -9,6 +9,7 @@
     - Predicting and Mitigating Customer Churn at Interconnect Data Driven Strategies for Enhanced Client Retention
   - 🚧 On-Going Projects
     - Optimizing Steel Processing: Data Analysis and Temperature Prediction Model
+    - Assessing Air Quality in US Metropolitan Areas: A 2023 Analysis
 
 - 🌱 **I’m currently learning**
   - Data Science concepts, tools, and techniques
