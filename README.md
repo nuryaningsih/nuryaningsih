@@ -26,7 +26,7 @@
 - nuryaningsih14@gmail.com
 
 **👨‍💻 All of my projects are available at**
-- Portfolio (https://nuryaningsih.github.io/Nury_Portofolio/)
+- [Portfolio](https://nuryaningsih.github.io/Nury_Portofolio/)
 
 **⚡ Fun fact:**
 
