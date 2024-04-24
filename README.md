@@ -23,7 +23,8 @@
 - Budgeting and Forecasting, including developing budget plans, forecasting financial outcomes, and analyzing variances to ensure financial performance goals are met
 
 **📫 How to reach me**
-- nuryaningsih14@gmail.com
+- [email](nuryaningsih14@gmail.com)
+- [linkedin](https://www.linkedin.com/in/nuryaningsih/)
 
 **👨‍💻 All of my projects are available at**
 - [Portfolio](https://nuryaningsih.github.io/Nury_Portofolio/)
