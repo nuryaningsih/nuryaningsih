@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nurya
 
-## A passionate frontend developer from Indonesia, currently exploring Data Science
+## An enthusiast exploring Data Science, hailing from Indonesia
 
 **🔭 I’m currently working on**
   - ⚔️ Projects Done
