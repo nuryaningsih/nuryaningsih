@@ -2,7 +2,7 @@
 
 ## A passionate frontend developer from Indonesia, currently exploring Data Science
 
-🔭 **I’m currently working on**
+**🔭 I’m currently working on**
   - ⚔️ Projects Done
     - [Identifying Success Patterns in Video Games for Strategic Advertising Campaign Planning](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/5_Identifying_Success_Patterns_in_Video_Games_for_Strategic_Advertising_Campaign_Planning.ipynb)
     - [Predicting Gold Extraction Efficiency Enhancing Production Processes with Zyfra Solutions](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/10_Predicting_Gold_Extraction_Efficiency_Enhancing_Production_Processes_with_Zyfra_Solutions.ipynb)
@@ -28,6 +28,10 @@
 
 **👨‍💻 All of my projects are available at**
 - [Portfolio](https://nuryaningsih.github.io/Nury_Portofolio/)
+
+**📄 Know about my experiences**
+  - [Projects completed during my course at TripleTen Indonesia](https://github.com/nuryaningsih/CodeCraftedAtTripleTen)
+
 
 **⚡ Fun fact:**
 
