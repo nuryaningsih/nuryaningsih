@@ -4,9 +4,9 @@
 
 🔭 **I’m currently working on**
   - ⚔️ Projects Done
-    - Identifying Success Patterns in Video Games for Strategic Advertising Campaign Planning
-    - Predicting Gold Extraction Efficiency Enhancing Production Processes with Zyfra Solutions
-    - Predicting and Mitigating Customer Churn at Interconnect Data Driven Strategies for Enhanced Client Retention
+    - Identifying Success Patterns in Video Games for Strategic Advertising Campaign Planning(https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/5_Identifying_Success_Patterns_in_Video_Games_for_Strategic_Advertising_Campaign_Planning.ipynb)
+    - Predicting Gold Extraction Efficiency Enhancing Production Processes with Zyfra Solutions(https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/10_Predicting_Gold_Extraction_Efficiency_Enhancing_Production_Processes_with_Zyfra_Solutions.ipynb)
+    - Predicting and Mitigating Customer Churn at Interconnect Data Driven Strategies for Enhanced Client Retention(https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/Predicting_and_Mitigating_Customer_Churn_at_Interconnect_Data_Driven_Strategies_for_Enhanced_Client_Retention.ipynb)
   - 🚧 On-Going Projects
     - Optimizing Steel Processing: Data Analysis and Temperature Prediction Model
     - Assessing Air Quality in US Metropolitan Areas: A 2023 Analysis
