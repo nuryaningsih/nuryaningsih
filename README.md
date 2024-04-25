@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nury
+# Hi 👋, I'm Nurya
 
 ## An enthusiast exploring Data Science, hailing from Indonesia
 
@@ -27,7 +27,7 @@
 - [linkedin](https://www.linkedin.com/in/nuryaningsih/)
 
 **👨‍💻 All of my projects are available at**
-- [Portfolio](https://nuryaningsih.github.io/Nury_Portofolio/)
+- [Portfolio](https://nuryaningsih.github.io/nurya_portofolio/)
 
 **📄 Know about my experiences**
   - [Projects completed during my course at TripleTen Indonesia](https://github.com/nuryaningsih/CodeCraftedAtTripleTen)
