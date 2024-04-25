@@ -4,9 +4,12 @@
 
 **🔭 I’m currently working on**
   - ⚔️ Projects Done
-    - [Identifying Success Patterns in Video Games for Strategic Advertising Campaign Planning](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/5_Identifying_Success_Patterns_in_Video_Games_for_Strategic_Advertising_Campaign_Planning.ipynb)
-    - [Predicting Gold Extraction Efficiency Enhancing Production Processes with Zyfra Solutions](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/10_Predicting_Gold_Extraction_Efficiency_Enhancing_Production_Processes_with_Zyfra_Solutions.ipynb)
-    - [Predicting and Mitigating Customer Churn at Interconnect Data Driven Strategies for Enhanced Client Retention](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/Predicting_and_Mitigating_Customer_Churn_at_Interconnect_Data_Driven_Strategies_for_Enhanced_Client_Retention.ipynb)
+    - [Exploring Trends in Video Game Sales](https://colab.research.google.com/drive/1pV3gezPD3bBFq0LmLP0m2usFhCqNAZkE?usp=sharing)
+    - [Insights from Ride-Share Data Analysis](https://colab.research.google.com/drive/1nuPjOVtceFP3VJeMESbZTPb0te5VMldk?usp=sharing)
+    - [Telecommunications Plan Analysis](https://colab.research.google.com/drive/1PuTI643N5dELZDpM3ctF_k19C0b9NdBI?usp=sharing)
+    - [Predicting Customer Churn for Bank Beta](https://colab.research.google.com/drive/1AlrVJsj0y-ZBjw5HbhW9NPt-Ac96l8oa?usp=sharing)
+    - [Optimizing Oil Well Selection for OilyGiant Mining Company](https://colab.research.google.com/drive/1vvJqW139iyCMD1v8PIZf1-n0HNQhRd6M?usp=sharing)
+    - [Optimizing Gold Recovery Process](https://colab.research.google.com/drive/14S6oRRQ28eu5xxGnnfr2IDazTGPgDIDb?usp=sharing)
   - 🚧 On-Going Projects
     - Optimizing Steel Processing: Data Analysis and Temperature Prediction Model
     - Assessing Air Quality in US Metropolitan Areas: A 2023 Analysis
